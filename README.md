@@ -1,4 +1,4 @@
-# Laboratory Inventory Management System
+# Data Mahasiswa Management System
 
 ## Deskripsi
 Data Mahasiswa Management System adalah aplikasi berbasis web sederhana yang dikembangkan menggunakan PHP Native dan MySQL. Aplikasi ini digunakan untuk mengelola data mahasiswa seperti NIM, nama, alamat, tanggal lahir, gender, dan usia. Sistem ini memiliki dua halaman utama, yaitu: Halaman Home (menampilkan data dan statistik) dan Halaman Admin (mengelola data mahasiswa).  
